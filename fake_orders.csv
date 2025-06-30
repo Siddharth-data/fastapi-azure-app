@@ -1,0 +1,501 @@
+order_id,customer_name,email,product,category,amount,purchase_date,country
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Daniel Doyle,garzaanthony@example.org,Headphones,Accessories,1721.01,2025-02-08,Madagascar
+32e70629-8fad-41a6-86cb-0fb39a1de644,Meredith Barnes,zlawrence@example.org,Headphones,Electronics,414.1,2025-05-13,Cayman Islands
+47229389-571a-4876-ac30-7511b2b9437a,Tyler Rogers,jamesmichael@example.com,Headphones,Electronics,1599.85,2025-04-16,Sri Lanka
+89463e85-759c-4e66-bacf-b3d00b1f9163,Thomas Miller,maria95@example.net,Headphones,Electronics,853.03,2025-02-03,Bangladesh
+c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,Bobby Hall,jamesshawn@example.com,Laptop,Electronics,1266.75,2025-01-29,Guinea
+b3aa7efe-4458-4885-ab90-99a435a240ae,Maria Lynch,amandasanchez@example.com,Camera,Electronics,1420.04,2025-03-08,Uzbekistan
+3838b326-8e94-4239-b02b-61c4a3d70628,Sarah Parsons,lydiatrujillo@example.com,Phone,Electronics,264.48,2025-02-16,Croatia
+e059a0ee-9132-463e-b162-87e4e9c349e0,Christy Porter,ithomas@example.org,Camera,Electronics,1469.74,2025-05-11,Mauritania
+6dadd6c7-95a7-4d79-bf3c-4c06434308bc,Jennifer Robinson,williamdavis@example.org,Laptop,Accessories,329.11,2025-05-31,Cape Verde
+ae340454-cac5-468c-a8f4-9481a0a04dc4,Arthur James,jrice@example.org,Camera,Electronics,938.03,2025-04-30,Brazil
+c0398710-8976-4334-a281-7efdae849217,Martin Rodriguez,amoore@example.net,Phone,Electronics,900.04,2025-06-03,Estonia
+2dbc2134-c30f-446e-8026-695ff8cda88b,Ashley Garrett,ericfarmer@example.net,Headphones,Accessories,1020.88,2025-06-16,Uzbekistan
+99546eb4-0025-4ad1-ab22-63dd87c5421e,Alec Hickman,john39@example.org,Laptop,Accessories,1945.68,2025-01-15,Libyan Arab Jamahiriya
+c2b6d2c5-fa5d-4100-91b7-e948d0e6e660,Beth Keller,josephbrennan@example.com,Camera,Electronics,821.39,2025-06-18,Vanuatu
+b09b2a5c-badc-432a-8159-0f538a0f4efb,Eric Carney,samuel87@example.org,Headphones,Accessories,1773.96,2025-02-13,Bahrain
+8dcdcd03-969b-4662-8562-8059568cc69b,Daniel Jones,perezrebecca@example.com,Laptop,Accessories,146.04,2025-01-13,Dominica
+36d8393a-7c44-4fe7-ab42-20a7474a493b,Miranda Khan,esanchez@example.com,Laptop,Electronics,445.1,2025-02-03,Bhutan
+6c6fa611-5ab3-4edf-ae59-5ed3a8b317fa,Scott Brown,brownjessica@example.org,Camera,Accessories,832.37,2025-02-13,Comoros
+6c006f61-23e2-4cb4-b2d8-567d894a05e4,Joel Baxter,ramosmichelle@example.net,Laptop,Accessories,1935.65,2025-01-18,Pakistan
+03c72ba8-d605-4770-8a63-f881ffd0f9d5,Tammy Allison,richardolson@example.com,Phone,Electronics,84.13,2025-06-07,Chad
+63f2ae24-fc3d-4348-808d-4127610461e3,Richard Gibson,uhorton@example.net,Phone,Accessories,749.04,2025-04-26,Libyan Arab Jamahiriya
+37bb3eec-4bf5-4b52-b09d-258c27a0c3d7,Lauren Daniels,brian97@example.net,Camera,Accessories,1261.57,2025-06-10,Marshall Islands
+82010c62-f5f5-4b22-8e8f-a8e0284d82e5,Cody Larson,richarddavid@example.net,Camera,Electronics,1495.85,2025-02-13,Nepal
+6b5252e3-14fc-4d54-9e8f-c9650a2c827e,Krystal Stewart,james53@example.com,Phone,Accessories,643.23,2025-03-11,Paraguay
+50f0fd0a-750c-4b75-8ccc-9bc2a53f8a28,Taylor Smith,jonesjason@example.com,Phone,Accessories,1791.8,2025-01-24,Guernsey
+3e896c64-e117-4ac3-919c-4ea3e1805081,Christopher Bass,cheryl80@example.net,Laptop,Accessories,1488.52,2025-05-23,French Southern Territories
+f05db76e-1a84-451a-a9d3-d7c7ee87905e,Deborah Preston,josephjacobs@example.net,Camera,Electronics,747.96,2025-03-02,Poland
+81627cf1-4394-42e6-9a58-7e8aa25d6b29,Taylor Mathis Jr.,ccalderon@example.org,Camera,Electronics,1650.62,2025-02-28,Bulgaria
+295d6fbf-430f-401d-bad4-09e2a319dcb4,Kristen Patterson,rodriguezsierra@example.net,Headphones,Electronics,273.19,2025-06-08,Mayotte
+951f58d0-5e84-4058-95a8-04eb093923de,Jessica Williams,rachel05@example.org,Headphones,Electronics,823.71,2025-04-30,Papua New Guinea
+8f5486b7-c7b5-42bc-9a8a-aeca1a50aec3,Jennifer Oliver,sarayoung@example.org,Phone,Electronics,655.3,2025-06-20,Sudan
+0658663a-698c-406f-a1a4-7e102d534dd0,Tim Patton,vpham@example.org,Camera,Electronics,69.4,2025-02-16,Solomon Islands
+df465290-61ee-411a-9bac-27a7b386f7a4,John Gonzalez,ybailey@example.org,Headphones,Accessories,215.01,2025-02-09,Palestinian Territory
+475287aa-5408-49ac-a601-ddd03170f437,Tracy Ramirez,ifrazier@example.com,Laptop,Electronics,666.88,2025-06-14,Brazil
+2db69edb-42de-4fcc-b86c-2ca2e08596db,Victoria Johnson,yreed@example.com,Phone,Accessories,199.9,2025-03-18,Malawi
+939b462d-e645-4129-a29c-2ae31d9af659,Andrew Graham,michaeljones@example.net,Headphones,Accessories,1251.61,2025-06-11,Nigeria
+1fe771d6-d917-4793-a9d3-c2e6505cc686,Elizabeth Parker,snguyen@example.com,Camera,Electronics,1045.25,2025-04-08,Congo
+610faa3f-f0bb-4c67-aa38-d0a16ba25efe,Stephanie Gilbert,richard04@example.com,Camera,Accessories,1020.77,2025-02-06,Solomon Islands
+527eecfa-a79a-49aa-9b4e-2c249479e1e6,Jeremy Lewis,yleon@example.net,Headphones,Accessories,377.28,2025-01-30,Belize
+a2086977-a9f2-4336-83f4-a9a948a639d0,Anna Crane,emilywalker@example.org,Phone,Accessories,1568.45,2025-01-26,Aruba
+9c7c7377-79a2-4903-bbe3-3b243eae0032,Angel Perry,jennifercruz@example.com,Headphones,Electronics,418.27,2025-02-12,Palau
+c03f3538-e485-4aa1-816b-6287b00805cc,Stacey Osborne,gregoryrubio@example.net,Laptop,Electronics,1761.19,2025-03-23,Moldova
+1f115b76-d92c-4227-aadf-50853fcb7546,Robert Contreras,stephanie79@example.net,Camera,Accessories,1788.4,2025-06-06,Japan
+722764e6-8c41-461b-a827-a1b9d4a02e53,Natasha Wells,karen48@example.com,Laptop,Accessories,1778.37,2025-04-20,Falkland Islands (Malvinas)
+49257af1-b6aa-405b-93d5-f2f7709b7d97,George Orozco,taylorjesse@example.net,Camera,Electronics,962.07,2025-01-27,Croatia
+54b4a482-6858-4eba-aa34-c85410714d51,Jennifer Clark,xprice@example.net,Headphones,Electronics,1797.37,2025-06-15,Angola
+9360715f-c3fe-4183-a172-b725db52ca58,Aaron Bell,acastaneda@example.net,Camera,Accessories,1735.82,2025-05-11,Mayotte
+3875394c-e5d6-46e6-9a6e-c2f5ccc42903,Don Tucker MD,dramsey@example.org,Laptop,Electronics,1798.18,2025-06-21,Martinique
+978648f8-64de-42e6-a82c-7d7b06e745f9,Alyssa Day,michellewhite@example.com,Camera,Accessories,1508.43,2025-03-08,Croatia
+c2dff335-5666-4f9f-93ac-2ab974672cd9,Diana Bean,fking@example.com,Phone,Electronics,245.08,2025-01-04,Mauritius
+59970043-f3b1-425b-bff9-f5850d557b61,Barry Bernard,websterstefanie@example.org,Laptop,Electronics,851.42,2025-05-27,Nigeria
+793b4c32-2050-4494-bd11-48022702878b,Kristy Robinson,katie29@example.net,Camera,Electronics,367.4,2025-06-18,Saint Barthelemy
+29ec8e49-d1bd-48c0-871d-5e601d5206ab,Ashley Johnson,barbara66@example.net,Headphones,Electronics,135.82,2025-02-04,Nauru
+3e2b6091-a092-452a-94a0-57a7b0cc1b3b,Raymond Jefferson,hoganashlee@example.org,Camera,Accessories,284.32,2025-03-02,Japan
+8186a576-11a7-4609-9edd-bbbfa9597663,Alexandria Fisher,xgarcia@example.net,Headphones,Accessories,1435.94,2025-06-06,Kuwait
+2d174fc9-6f7c-45ea-a72a-6d8eb5122df8,Tracie Nelson,umarshall@example.net,Phone,Accessories,301.97,2025-02-16,Timor-Leste
+162f8a24-ef43-413c-94aa-c9a33ed8c56c,Jerry Christensen,frogers@example.com,Camera,Accessories,363.27,2025-02-01,Croatia
+57207246-4223-423b-8c3e-bdde5ad5cf06,Kyle Beard,blackjames@example.org,Headphones,Electronics,1916.82,2025-05-07,Liechtenstein
+b0cbc61f-3d85-4e89-8217-14298e200724,Michael West,davisjeffrey@example.net,Camera,Accessories,1980.54,2025-02-12,Panama
+8db06746-7927-4973-9e78-1fd794e0d3ba,Jessica Reese,michael74@example.com,Laptop,Accessories,522.18,2025-02-13,British Indian Ocean Territory (Chagos Archipelago)
+1e9b23bc-50c7-4006-b14d-3441b8a6171f,Tiffany Vaughn,javierwashington@example.net,Phone,Electronics,1527.07,2025-04-14,Senegal
+fb02bebb-4872-4a4d-98c7-472a864e9a13,Cory Perez,kevinerickson@example.org,Camera,Electronics,1218.12,2025-02-18,Austria
+f1afdb65-b289-4224-8ac9-778d8da8eee4,Sean Henry,andrewstaylor@example.com,Phone,Electronics,1998.25,2025-03-01,Austria
+7a4c75d4-dc99-404c-b0e9-8b3b40a26c60,Austin Vasquez,hernandezlisa@example.com,Camera,Electronics,744.12,2025-01-15,Egypt
+6a8a616f-c3b2-40d0-8edd-dfcd1e52d770,Rachel Perez,chayes@example.com,Phone,Accessories,161.94,2025-05-31,Japan
+0f6b40d0-9efb-458b-9191-b3634e2d6645,Natalie Meza,colleenbaker@example.org,Headphones,Electronics,351.66,2025-01-28,China
+00af5b3a-2812-459a-9337-739e8d4f5d27,Michael Harrison,halljasmine@example.net,Camera,Electronics,961.24,2025-05-31,Barbados
+43b9da13-ec85-4f37-bbc1-a987aff8754d,Lori Guerrero,ronaldstephens@example.net,Camera,Accessories,1575.62,2025-01-27,Ethiopia
+0f44704f-1247-4a4e-a469-98e8d39e198b,Eric Curry,scott74@example.net,Camera,Electronics,238.44,2025-03-12,Faroe Islands
+7010f719-7e69-4d0d-8a3c-3b5e801ef1da,Andrew Reynolds,cassandra01@example.org,Camera,Accessories,1505.14,2025-06-18,Taiwan
+f366bad4-964d-403f-9340-3faddc4ad56b,Phillip Underwood,hinesgregory@example.net,Headphones,Electronics,1240.54,2025-04-25,United States Virgin Islands
+95d82980-ff37-419c-ae76-128b473544f9,Robert Costa,vbailey@example.com,Phone,Accessories,198.17,2025-04-28,Togo
+b194990b-6961-429e-946e-035a292bd156,Matthew Morales DDS,gibsonleonard@example.com,Headphones,Electronics,38.35,2025-01-21,Sierra Leone
+d32e6dcd-83bc-4478-9d6a-c7b86778043b,Mary Daniels MD,aprildean@example.com,Camera,Electronics,1540.78,2025-04-20,Senegal
+8c99a894-445d-4c38-b41c-64940d366dfc,Dwayne Gilmore,omartinez@example.net,Camera,Accessories,1301.22,2025-05-20,Russian Federation
+03802b70-8d03-491e-8f8d-5238288b78b5,Anna Gay,murraydavid@example.org,Laptop,Accessories,500.77,2025-03-29,Saint Barthelemy
+45ff2c83-b495-4b4e-8245-6fb44ab7706e,John Kennedy,yarnold@example.org,Camera,Electronics,539.05,2025-06-11,Malawi
+dd30de89-22f2-45f2-a11b-868dbf0d073d,Raymond Dickerson,sarah84@example.org,Laptop,Electronics,945.01,2025-02-19,French Southern Territories
+ffb8102d-9475-4bc9-9641-8cedd664d264,Sharon Griffin,jreed@example.net,Headphones,Electronics,818.19,2025-03-08,Venezuela
+fb140bc3-304b-4590-9e9e-37575260001e,Laura Hall,vwilliams@example.com,Phone,Electronics,603.61,2025-05-04,Sudan
+a9e782d4-fd08-432c-a2d6-0e9361985d54,Marissa Hernandez,martineztammy@example.com,Camera,Accessories,1481.33,2025-06-02,Tunisia
+86a4bae4-1986-44b2-b0b7-e868d85480f0,Alexis Thomas,charlesharrington@example.com,Phone,Electronics,211.5,2025-03-01,Puerto Rico
+da0d4a5f-148f-4b74-a65b-b1f265c17795,Michael Ferguson,courtney78@example.org,Headphones,Accessories,841.2,2025-04-19,Dominica
+4991ab9b-ebc2-426f-af34-cf65a193c4b2,Nicole Hamilton MD,wallaceheather@example.org,Camera,Electronics,1503.66,2025-01-09,South Africa
+5ff595ea-5bc4-40f1-8b1a-269b0e5dd462,David Jenkins,georgemiller@example.com,Headphones,Accessories,1354.48,2025-04-19,Dominican Republic
+24a35cf2-9549-4931-a9af-299d7f671eec,Mark Stevens,nolansteven@example.com,Laptop,Electronics,1970.43,2025-04-29,Cayman Islands
+5876fd09-f1fa-4665-b115-33f312e89d10,Elizabeth Hayden DDS,mbruce@example.com,Phone,Accessories,72.5,2025-05-30,Botswana
+5be4bf51-9269-4698-a1a1-17293cb98350,Wendy Phillips,khill@example.net,Laptop,Accessories,857.94,2025-05-17,Australia
+7f2984f5-bec3-4a37-9b3d-74bde91e314e,Stephanie Parsons,catherinegomez@example.net,Phone,Electronics,893.88,2025-02-03,El Salvador
+c478f6f1-b88e-4318-816d-83edad81f8bd,Sara Fuller,parkerscott@example.net,Camera,Electronics,1545.21,2025-03-05,Bulgaria
+53a3dd5a-4b8c-4bdc-a8dd-5e5a1712fb16,Casey Anderson,alyssa42@example.com,Headphones,Accessories,25.81,2025-06-09,Western Sahara
+4b8e63d4-ce76-47ad-b7a6-7b947b5a611a,Gina Wilson,taylortammy@example.net,Headphones,Accessories,1669.07,2025-05-07,Indonesia
+8eac0a33-cdf9-44a7-9882-b5c1f79efd70,Richard Smith,gibsonemily@example.net,Headphones,Electronics,733.55,2025-02-15,Hong Kong
+5f18e583-f0b6-483f-a377-f6f1d289f0ab,David Johnson,rose31@example.net,Headphones,Electronics,1675.47,2025-05-25,United States of America
+688613db-a634-4e78-8d5c-55c7b379cb1e,Andrew Johnson,pwilson@example.net,Laptop,Electronics,423.96,2025-01-24,Korea
+be3e6e57-f30a-4e32-aba4-fc035efa9c5b,Kimberly Matthews,nicolepena@example.com,Laptop,Accessories,1141.35,2025-04-18,Wallis and Futuna
+b0b63bcf-0860-4833-879d-0cdaf396ea37,Jeremy Sampson,cory58@example.net,Laptop,Electronics,1964.49,2025-03-04,Indonesia
+1f45dbfd-f7dc-47e0-b097-4b2b46a02a9b,Samantha Davis,darleneharper@example.org,Camera,Electronics,1557.09,2025-01-09,Grenada
+c9776598-203c-4c25-bd23-5def3e5a87e3,Andrea Hubbard,brendali@example.org,Camera,Accessories,1307.44,2025-02-27,Cameroon
+00b9d4a3-9892-40ac-a689-33a9c9e48e8c,William Huerta,lauren10@example.org,Phone,Accessories,582.83,2025-01-03,Somalia
+52e2afd9-96bf-40ab-bce9-15e7c9d6a63b,Derek Martinez,vfox@example.org,Camera,Accessories,197.36,2025-03-25,Slovakia (Slovak Republic)
+1beaf6ac-97fa-4f04-8363-90075cae9610,Daniel Gilbert,stephen00@example.com,Headphones,Electronics,1501.86,2025-05-29,Japan
+b65feea9-7d82-4264-9ba3-62e7afa415e5,Angel Miller,cameronhill@example.net,Laptop,Electronics,523.09,2025-04-13,Rwanda
+98eeac2b-fe9f-4caa-a182-f347533f5a72,Jody Jacobs,mcguiredanny@example.net,Laptop,Electronics,1984.61,2025-04-24,Seychelles
+370bc063-dd90-479e-b888-f6ed8d244e3e,Stephen Gutierrez,uross@example.org,Headphones,Accessories,1372.38,2025-02-24,Germany
+f41ea3ac-5fd2-4109-8140-752caa448259,Thomas Jones,daviscolin@example.net,Laptop,Electronics,1802.28,2025-03-07,Bulgaria
+f4e559e5-9622-4348-8f5a-e9d38e6e5003,Erin Martinez,morgan60@example.com,Laptop,Electronics,225.3,2025-04-16,Guinea
+36760ce5-81e5-49f6-93f2-77cc1a85910d,John Boone,megan51@example.com,Headphones,Electronics,553.41,2025-04-11,Sri Lanka
+f97be2dd-8f9b-42ae-985c-16bd6dda4f8d,Lisa Leonard,lynchdiane@example.net,Phone,Electronics,1387.83,2025-02-16,Cocos (Keeling) Islands
+4f199ec0-c32d-4526-b3e4-110a45f50c52,Heather White,ashleymorales@example.org,Phone,Accessories,1065.69,2025-05-10,Antarctica (the territory South of 60 deg S)
+3712f2d1-87cd-46a1-bf01-2e32177d6e7e,Jesse Moore,jennifer99@example.org,Laptop,Electronics,1249.37,2025-06-04,Cape Verde
+0cbd3c03-9e2a-44ac-8122-b5b3284c03d2,Denise Stanley,alawson@example.com,Phone,Electronics,384.09,2025-02-07,Malaysia
+1c6345ab-6e0e-41e8-985d-3f861d2324e6,Michael Tucker,brandon69@example.org,Laptop,Electronics,1567.12,2025-01-02,Gabon
+2321d1e1-c471-44c0-b613-6e15f200c261,Donna Wilson,lburgess@example.org,Camera,Electronics,328.52,2025-03-08,Romania
+d556b37d-8f08-41ee-8011-316b3ae88926,Heather Sanders,grahamsteve@example.org,Headphones,Electronics,726.21,2025-05-31,Morocco
+b5a1b949-6788-4209-92ca-525a6de59332,Donna Sullivan,george97@example.net,Laptop,Accessories,533.49,2025-06-10,Benin
+3e49fd09-1b19-48b8-9830-20816fcc57dd,James Miller,julie35@example.org,Phone,Electronics,1131.76,2025-01-14,North Macedonia
+31a3ac4d-828c-47e7-87d5-b7be1d30d990,Hannah Luna,joelthomas@example.org,Headphones,Accessories,195.16,2025-01-31,Cape Verde
+134a5a2f-a7cf-405c-8257-cf73c29d782b,Raymond Snyder,kmaldonado@example.net,Camera,Electronics,737.79,2025-04-22,Nigeria
+a09151e0-f891-40c3-9d3f-487e52bdc661,Jeremiah Harrison,laura90@example.com,Laptop,Accessories,234.1,2025-03-30,Georgia
+0e9058b6-09a0-40f6-b3b0-a0917634c169,Dustin Newman,gilbertwilliam@example.com,Headphones,Accessories,1445.85,2025-04-12,Zimbabwe
+0a8076ec-e558-4e16-bd29-ede9cab4923b,Robert Pearson,cassidy82@example.org,Phone,Electronics,739.85,2025-03-20,Sudan
+fb7d9f1c-57eb-49b1-965e-59dde62d2d06,Kathy Thompson,jasmineritter@example.net,Phone,Electronics,1551.66,2025-04-02,Cayman Islands
+486bb6bf-eafd-47d9-9f73-3a3e5d286aa4,Raymond Shelton,mccormickdeborah@example.org,Phone,Electronics,1764.54,2025-02-27,Moldova
+4082cbb9-48bd-4b3e-a2f5-df2badaa44ca,Mary Escobar,mathewaguilar@example.org,Phone,Accessories,1691.79,2025-06-10,Georgia
+a981b098-b2cf-452d-a7f3-33b3f7baf55e,Kurt Hurley,angelica52@example.net,Camera,Accessories,1731.84,2025-05-03,Yemen
+e99630f7-af77-420e-bf46-25afbd20563b,Maria Henderson,andrew42@example.org,Laptop,Accessories,1462.35,2025-03-01,Seychelles
+fffe77c8-39fe-499c-b127-41487c7c404e,Billy Richard,romeroamber@example.net,Laptop,Accessories,1503.18,2025-06-04,Argentina
+c42cbc39-e05b-46c5-9636-3094a97431db,Linda Moore,mariewise@example.org,Laptop,Accessories,1132.07,2025-05-07,Aruba
+b836c448-ad26-4ec5-9d42-b9e9692e07b6,Jeremy Mitchell,pyoung@example.com,Camera,Accessories,1644.16,2025-06-18,Slovenia
+31ab0b56-d5c9-4dc7-a76a-dca978116802,Travis Joyce,xhammond@example.com,Camera,Accessories,77.19,2025-03-30,Italy
+331f63fb-d11f-48c0-a97c-a4fff75d599f,Brenda Wright,jsawyer@example.org,Laptop,Electronics,503.12,2025-05-05,Maldives
+1578d709-48f9-43d0-9fea-e1e0d9e604b3,Denise Whitehead,mariahdavis@example.org,Headphones,Electronics,1965.87,2025-05-23,Turks and Caicos Islands
+6a36af18-06d3-4b93-ae33-688d597e6845,Jonathan Young,brooksanthony@example.org,Headphones,Electronics,106.86,2025-05-27,Pakistan
+2339ba19-2563-4cc3-8a97-ebf555d596af,Thomas Kennedy,katherineharrison@example.net,Phone,Electronics,225.43,2025-01-01,Belgium
+d5c0244d-3735-462d-8184-3b0304dd7054,Todd Lynch,srodriguez@example.org,Headphones,Electronics,373.75,2025-02-22,Australia
+cb3cf8ca-a392-4731-ab79-afcc3d0a5f0c,Amy Copeland,bcarlson@example.net,Headphones,Electronics,474.77,2025-04-01,Dominican Republic
+6de299a1-4a90-4d0c-a4c1-73b9b7f28572,Harry Duncan,elizabethmiller@example.com,Camera,Accessories,1166.76,2025-01-12,Malta
+fd034ada-c952-4185-81e0-3a5e8b48f496,Alicia Marks,reidtina@example.com,Phone,Electronics,1517.24,2025-05-11,Guinea-Bissau
+3dba6da8-5844-49fc-914b-9547c9dc72b8,Lori Ingram,dennis58@example.com,Laptop,Electronics,850.92,2025-05-23,China
+76f186ab-af47-4b49-8775-e395d49405f0,Mrs. Catherine Taylor,mjohnson@example.org,Camera,Accessories,418.4,2025-05-19,Turks and Caicos Islands
+4f612217-eef1-4694-90ca-e32d0aba590e,Virginia Daniels,benjamin34@example.com,Headphones,Accessories,1725.68,2025-05-31,Australia
+45f18619-54f9-4429-a7de-02ccdda4f4a7,Jacob Preston,ykline@example.com,Laptop,Accessories,1705.98,2025-06-20,Luxembourg
+ec9f9c54-5e0a-42ab-bf5d-b163b12b6680,Debra Miller,mmiller@example.org,Phone,Electronics,1710.5,2025-04-06,Gibraltar
+a9320094-53f2-4f11-947f-65701a43db54,Jeremy Robbins,hannahbell@example.org,Camera,Electronics,504.15,2025-05-08,United States Minor Outlying Islands
+6f5842c3-ff86-4c31-9d66-e8155a4153b3,William Gould,lambertrichard@example.net,Headphones,Accessories,1993.18,2025-05-21,Philippines
+248d31ec-07f8-44f0-b3ea-018428f4e3ce,Megan Kim,carlososborne@example.com,Headphones,Accessories,96.88,2025-03-05,Zambia
+2747b93c-9ae7-4eab-884a-67809136f1f8,Tiffany Watson,berryalyssa@example.com,Camera,Accessories,97.65,2025-02-25,Fiji
+06a241af-1d0a-47f7-b5e4-a4713fe68c9c,Kathryn Hughes,greenjorge@example.com,Headphones,Electronics,48.44,2025-02-07,New Zealand
+ffa623d0-ea9e-4c8d-b1a8-b71f491b90e9,Bryan Farrell MD,zosborn@example.net,Camera,Accessories,88.87,2025-06-19,Ghana
+109fd8ee-b5a4-4200-98f0-dd23aaf78c67,Donna Evans,jenniferho@example.net,Laptop,Electronics,1822.6,2025-01-31,Guyana
+fc31a597-1f11-4c0f-b967-e60a823dd107,Charles Tyler,wardashley@example.com,Camera,Accessories,1030.09,2025-05-21,Micronesia
+161237c9-e25d-49a8-9ca8-a5c42138afe0,James Love,xfox@example.com,Headphones,Accessories,1674.37,2025-05-25,Barbados
+a4704d48-5128-49b1-b8ed-e0ca20156a72,John Holmes,nataliedeleon@example.net,Phone,Accessories,684.48,2025-04-13,Seychelles
+80bbae52-6ec0-4269-a108-4dd9f75d1e3c,Amy Martinez,kevinmartin@example.net,Camera,Electronics,606.31,2025-02-09,Yemen
+48b763d5-e519-4d7e-84d6-7c4ff0df1684,Danielle Reid,david49@example.net,Laptop,Accessories,674.81,2025-01-17,Norway
+94a53fde-f10d-47c8-9780-c2152b2bb8e9,Matthew Le,megan90@example.org,Phone,Accessories,1567.78,2025-01-15,Yemen
+43c07d43-93a7-4792-8561-b8dca4364fcd,Pamela Butler,jimenezcourtney@example.com,Phone,Electronics,1979.52,2025-04-23,Gabon
+ceae71cf-ce00-4af0-beb0-51817ba24588,Elizabeth Jones,moorerobert@example.com,Headphones,Electronics,914.68,2025-02-05,New Caledonia
+b7e6a14c-dc8a-4922-9005-680f24c778a5,William Reed,xanderson@example.net,Camera,Electronics,1256.82,2025-04-09,Ghana
+44790612-1f5d-488f-b76a-bf093de28859,Charles Williams,alin@example.org,Camera,Electronics,870.45,2025-06-18,United Arab Emirates
+ef0a573d-53d2-456d-9040-158728e213bc,Emily Hines,dferrell@example.com,Laptop,Electronics,1588.71,2025-06-03,Luxembourg
+64ab851b-f1fa-46e7-970d-750705eee1d4,Tracy Lewis,brandon47@example.net,Camera,Electronics,486.27,2025-06-04,Palau
+896490ab-4926-4e5f-b878-6140ac2a4f71,Brian Anderson,jessica65@example.org,Camera,Electronics,1703.67,2025-03-12,Montenegro
+8da00495-5cce-4ba9-b1d4-ee098fd33afc,James Cole,marcia99@example.org,Camera,Electronics,1557.37,2025-01-23,Bhutan
+fc9e1dcb-cb7e-4268-9f89-ed1264d6dfbf,Todd Fischer,carriemorales@example.org,Camera,Electronics,1887.74,2025-01-08,Burundi
+79474bfa-cdd0-44d4-9542-27deb6adf48b,Brittany Barry,markaustin@example.org,Laptop,Accessories,1984.61,2025-03-10,Nicaragua
+97fe56c5-4c9a-4f24-97b4-c294bd44089d,Ronald Patel,thomas05@example.com,Phone,Accessories,856.68,2025-04-28,Israel
+e61599c8-cbf8-4f86-8ec3-f970956d80e4,Melissa Johnson,pbaker@example.net,Camera,Accessories,643.25,2025-04-12,Saint Helena
+2ba6adb3-7afe-4114-9561-c8130d259caa,Michelle Hampton,rhernandez@example.org,Camera,Electronics,1841.54,2025-01-06,Yemen
+04d9145e-30d7-4df7-9c22-1ceab35556a5,Jason Gutierrez,roberthampton@example.com,Camera,Accessories,358.66,2025-06-02,Saint Pierre and Miquelon
+23595fa4-b4ad-4f89-8ff1-aa9fba370623,Kristina Bolton,ufox@example.org,Laptop,Accessories,463.56,2025-03-22,Martinique
+ad05b912-5ab2-4d4a-8bd8-8fcd57a2be4e,Michelle Schneider,chelsea33@example.com,Headphones,Accessories,1321.32,2025-04-08,Czech Republic
+4c3077c4-fb75-4923-b910-abb3f1053252,Michele Vaughn,wstewart@example.net,Camera,Electronics,927.31,2025-06-13,South Africa
+1f33242d-49ac-4087-8601-5028b8beff3d,Kimberly Huang,xcardenas@example.org,Phone,Electronics,80.5,2025-02-20,France
+58ab4778-143b-45e3-b6d1-f6bbf48f709c,Mary Burgess,jamesryan@example.net,Camera,Electronics,1262.27,2025-05-02,Burundi
+963a8617-bdab-47e7-9d9d-028e1bf645f6,Anthony Stein,danawilliams@example.com,Phone,Accessories,1459.63,2025-02-27,Latvia
+23310a28-c550-4ca8-ae62-990c19bd4f93,Joshua Hickman,edelgado@example.com,Headphones,Electronics,1047.23,2025-04-24,Saudi Arabia
+4910fade-5238-4bf2-8988-e418f6c31218,Susan Davis,amandasharp@example.org,Phone,Electronics,1233.06,2025-06-09,China
+2d007d05-d66d-4627-a1da-ce6a6afa828c,Amanda Huff,vlopez@example.com,Laptop,Accessories,20.08,2025-06-03,Algeria
+1b780ede-9a4f-4c0c-9165-f2ed4c636e95,Frances Gibson,ismall@example.net,Headphones,Electronics,1788.77,2025-03-23,Congo
+2999394c-54a7-469b-9cd6-6b09cf0e6d2b,Mariah Higgins,doylekrystal@example.net,Headphones,Electronics,1684.68,2025-04-29,Congo
+a383889a-db2c-4ac8-9c67-83932ced3c0d,Samantha Robertson,moralescody@example.org,Laptop,Accessories,764.57,2025-03-25,Vietnam
+6231ee73-42c2-42eb-81bf-9e733f800385,Paul Finley,brandi90@example.com,Phone,Accessories,288.2,2025-04-25,Puerto Rico
+1e43fbd2-aaf4-47f7-8fe7-61493c7e5368,Christopher Parks,hannah45@example.net,Phone,Electronics,1394.4,2025-02-08,Burkina Faso
+bf6b8cdf-7479-4b61-a737-2b527a6a2107,Jacqueline Miles DVM,kathleenbecker@example.net,Headphones,Electronics,574.57,2025-06-02,Belgium
+b42a0456-8736-4a84-b25e-134d86879aa9,Thomas Rodriguez,ashleyhernandez@example.com,Phone,Electronics,246.6,2025-05-30,Kenya
+b787ef8d-3495-411e-ae27-d4321dc1e7eb,Ann Dixon,chavezwilliam@example.com,Camera,Electronics,548.45,2025-04-09,Monaco
+4ee4334e-ce92-4136-ac3a-812f765e6cb5,Jennifer Velasquez,bethwilliams@example.com,Phone,Accessories,1040.11,2025-05-03,Mauritius
+e4eb8000-ef40-4162-8f6c-e9bffe7ee362,Timothy Johnson,iwhite@example.net,Laptop,Electronics,121.6,2025-06-21,Oman
+fe2bd987-5fdc-4bbf-ab9c-d71cf6ba745b,Joan Stark,rbennett@example.net,Headphones,Electronics,408.75,2025-06-03,Burkina Faso
+1e5ebe54-5907-4299-9c3b-bdd8a74e02a9,Joshua Rice,maryavila@example.com,Headphones,Electronics,835.57,2025-03-23,Saint Helena
+6118433b-882c-4d1e-ac93-a7918b60c511,Danielle Reed,jacob10@example.net,Laptop,Accessories,155.98,2025-03-15,Seychelles
+04015ced-e398-46bb-a23d-dfaaefad49e9,Austin Wheeler,tharper@example.org,Phone,Electronics,263.44,2025-02-12,Aruba
+8a2db2e6-3bfd-48a6-b05f-ddf566fadca0,Scott Brown,jim95@example.net,Phone,Electronics,362.9,2025-04-15,Peru
+4d406f1b-3ca5-4e29-9217-1bf3d18183d1,Victoria Boyd,dturner@example.net,Camera,Accessories,1799.75,2025-06-15,Turkmenistan
+a0411612-2cd5-4759-a95d-2761bc36dc59,Kristi Williams,shelly68@example.com,Headphones,Electronics,195.21,2025-05-02,Ireland
+2f12b150-605f-41eb-8cc5-7e0d26332018,Kara Atkinson,meredith27@example.org,Phone,Electronics,941.62,2025-04-09,Israel
+636f6e5c-2253-4706-87ad-8b268eaa5841,Dalton Lucas,fboone@example.net,Laptop,Accessories,1184.0,2025-05-07,Comoros
+ac75c344-608e-449e-84b9-e6020d31812e,Amanda Jones,timothybooth@example.com,Headphones,Electronics,877.42,2025-02-23,United States of America
+30a5648e-efe9-43d0-b639-08bf03ece8ff,Autumn Key,srocha@example.net,Headphones,Electronics,652.07,2025-05-04,Indonesia
+52555c75-8d55-419e-bd44-cb2cea45ba41,Jamie Ferguson,kyle58@example.com,Camera,Electronics,1108.98,2025-03-23,Spain
+c2fa1da8-7830-4631-b8f0-188efb37afae,Suzanne Wood,owilliams@example.net,Headphones,Accessories,983.57,2025-01-26,Eritrea
+9442b5e6-9583-4d58-af4c-51198da5d39b,Elizabeth Gonzalez,noahwhitaker@example.com,Camera,Electronics,1024.18,2025-04-07,Western Sahara
+c36b9a0a-41e0-4a89-966a-9ce7af521b94,Tracy May,umurray@example.com,Camera,Accessories,1594.59,2025-01-30,Saint Helena
+eab9eb02-2f1d-4121-bd02-4c6d8bea75c1,Wanda Bernard,combscharles@example.net,Camera,Accessories,1884.35,2025-01-09,Albania
+a175a9c3-d7b1-42a9-a332-a50e6992896e,Michael Smith,nbrooks@example.net,Laptop,Accessories,752.34,2025-04-27,Nicaragua
+7ce40679-a8c6-4bc0-bbb3-447be9aa144b,Joseph Jenkins,morenojoshua@example.com,Camera,Electronics,1063.61,2025-01-03,Suriname
+ce610199-6e3a-4ba8-ac8d-6c7db2a6e468,Cassie Hull,johnharvey@example.com,Phone,Accessories,110.1,2025-05-23,Ethiopia
+5f804eeb-143a-4aff-a59b-0105cb80f288,Judy Sanchez,kevinclayton@example.org,Camera,Electronics,792.96,2025-04-25,Togo
+17efa621-081c-49d4-8274-37eba65f7b8a,James Alvarez,warnerchristopher@example.com,Headphones,Accessories,545.71,2025-04-23,Greenland
+f94d8fcb-dba3-496f-ba32-3f6990dbfad6,Joseph Williams,rachelschwartz@example.net,Laptop,Electronics,1417.18,2025-03-25,Aruba
+ecf32053-af36-48cc-9308-7974ec95b3ac,Joshua Barrett,sarahedwards@example.org,Camera,Electronics,677.12,2025-04-13,Sao Tome and Principe
+65f6ba53-d226-48b3-b674-410dd218c9d6,Elizabeth Elliott,irhodes@example.com,Laptop,Electronics,94.45,2025-03-09,Saint Vincent and the Grenadines
+b076a7dc-fd0c-4433-8a5e-151b23d3cd4c,Kathryn Mccann,davisjesse@example.org,Camera,Accessories,1688.0,2025-03-01,Seychelles
+658e54a2-9879-4f35-b471-99869d264599,Erin Walters,whenry@example.net,Laptop,Accessories,962.48,2025-06-14,Jersey
+a921cb4c-95fb-4976-ae00-7b7e2f8c83e5,Raymond Phillips,jennifermiller@example.org,Laptop,Electronics,1125.22,2025-03-08,Slovenia
+63be441d-bd5a-4c9e-a77e-b0aaa247541d,Brian Smith,sean41@example.org,Camera,Accessories,1233.58,2025-01-16,Jersey
+832f52c4-8e03-40cf-8e96-922772e76b51,Alexander Gomez,carlsonkristen@example.com,Headphones,Accessories,577.43,2025-01-03,Isle of Man
+b98f5dbe-15ae-4e0f-8777-a07f6346d4ef,Susan Spence,ginajackson@example.com,Camera,Accessories,1716.16,2025-02-22,Lithuania
+6f46f1b1-2ace-4aa9-9032-46b3255bfc1c,Elijah Patton,johnathan37@example.net,Camera,Accessories,273.34,2025-04-18,Kuwait
+01bb819c-4dfe-4117-a2af-711f1b628a9d,Evelyn Oliver,scott69@example.org,Laptop,Electronics,1910.77,2025-02-22,Netherlands
+7aa061e9-336b-40cb-b1fe-ad13f280df1d,Vincent Novak,jessica79@example.org,Camera,Accessories,1843.78,2025-02-27,Fiji
+5d71a898-6497-4593-892e-8c93d105c8d6,Justin Vargas,erinpierce@example.net,Camera,Electronics,1901.17,2025-03-22,Russian Federation
+4a94ae9f-cc35-4e4f-b03e-957f35ab8466,Andrea Abbott,ichambers@example.net,Laptop,Electronics,71.42,2025-02-22,El Salvador
+6c521d13-b719-4b68-a775-ee42a89e22f2,Angela Ewing,iaguilar@example.net,Camera,Electronics,1686.79,2025-06-11,Trinidad and Tobago
+09697101-8b2c-450a-ab15-c11bb113d50b,Heather Woodard,rodriguezjohn@example.net,Phone,Electronics,187.74,2025-03-04,Oman
+fbcdbf5e-902f-4465-8b57-07209cd8758b,Maria Rasmussen,tammy61@example.org,Camera,Accessories,1689.24,2025-01-18,Cyprus
+8ed8a80d-84cf-4e39-bf31-c29f82bbad84,Laura Griffin,rford@example.net,Headphones,Electronics,362.22,2025-05-01,Canada
+7b96e2d1-0649-4cf6-bf69-723d584fc85b,Jason Nixon,guerrajessica@example.com,Camera,Electronics,1521.82,2025-02-24,Korea
+7ba109d0-8567-4805-b4f5-41c0c8c5eb2a,Brent Bowen,tflores@example.org,Headphones,Accessories,406.38,2025-05-22,Brazil
+a5e15b55-57d3-44dd-9963-dc7205c8234b,Robert Spears,zacharyarnold@example.com,Camera,Accessories,1639.03,2025-04-08,Kyrgyz Republic
+a137f8e4-67b1-4040-8c39-b9253b5ae288,Martin Reynolds,mclaughlinnicole@example.com,Phone,Accessories,1342.23,2025-04-14,Iceland
+34ae4abd-36fc-40ac-b469-8db30123a348,Michael Flynn,lloydamanda@example.com,Camera,Electronics,1352.93,2025-02-27,Kuwait
+dcd5bfae-abb3-46a7-8329-97801d2c2721,Vincent Edwards MD,wmatthews@example.com,Headphones,Accessories,367.7,2025-05-28,Niger
+b4bba73f-ac70-41d1-9051-267f2c2ac34b,Tamara Lawrence,lawrenceallen@example.org,Headphones,Accessories,932.25,2025-02-02,Puerto Rico
+6b11b7cb-6372-4424-82c5-6b21243012da,Laura Henderson,sreid@example.net,Phone,Electronics,380.75,2025-06-12,China
+49f1137d-7d59-4e19-aab7-b2ef8e0ec033,Ernest Hayes,glennstephanie@example.com,Laptop,Electronics,1577.71,2025-01-24,Suriname
+816462cb-8fc3-47d3-b6bd-80c7624a2a50,Jennifer Vasquez,fburns@example.net,Laptop,Electronics,1317.85,2025-01-06,Senegal
+465cc2cb-085e-4489-8ac6-678038749f3c,Dylan Norman,hdunn@example.net,Camera,Accessories,1335.06,2025-01-20,Singapore
+5deaa737-fdab-4441-92c2-a9608b0901ab,Nicole Wolf,bpayne@example.org,Phone,Accessories,505.87,2025-05-09,Palau
+dff389aa-4c36-470c-bf5e-3b8cc0582da5,Mrs. Hannah Montoya MD,rowejoel@example.net,Phone,Accessories,122.6,2025-04-13,Guernsey
+a1fd4187-9c3a-4e0b-b5f3-f8aadc6dafff,Luis Glover,lindahudson@example.net,Camera,Accessories,1646.12,2025-02-19,Mauritania
+b43cde0a-fa9f-410e-92da-f6812b1ac76c,Kenneth Farley,taylorkaren@example.com,Headphones,Electronics,625.27,2025-06-10,Falkland Islands (Malvinas)
+b390b059-207b-4e21-a7e8-d18eddf6d4ac,Danielle Dawson,kathleenlowe@example.com,Phone,Electronics,1557.05,2025-01-25,Norfolk Island
+600b4b35-6a0a-47d5-a0b8-575544caa5a2,Mark Beard,powellkara@example.net,Phone,Electronics,1310.26,2025-06-13,Heard Island and McDonald Islands
+53c93ae7-7cf0-4bb3-b343-d9eb7466ef02,Sheila Boone,simonstephen@example.net,Laptop,Electronics,1930.08,2025-05-03,Thailand
+65d0b517-88d0-4abd-8bb1-8c791036708d,Jeffrey Lewis,marcus45@example.net,Headphones,Electronics,157.08,2025-04-12,Mongolia
+57ff51d9-c9ce-44bd-bc3f-1addda385db5,Pamela Williams,ksmith@example.com,Phone,Accessories,1383.64,2025-03-21,Japan
+e8cee951-b047-4ea4-bee5-ce6933cb202e,Matthew Moore,clarence54@example.org,Phone,Accessories,1834.82,2025-03-07,United Kingdom
+6576a410-0d41-4e47-aa5f-da18a61f0b96,Molly Fischer,trios@example.org,Phone,Electronics,60.81,2025-01-01,Lesotho
+39e7a4f1-97fb-413a-a1f8-9d0613f3cade,Jill Smith,lisa62@example.com,Headphones,Accessories,1730.8,2025-01-13,Hungary
+1a38aad6-ce53-4ffd-bb13-4f0216de66c9,Jacob Evans,wayala@example.org,Camera,Accessories,1160.99,2025-04-23,Philippines
+9033da65-87cf-43fd-9183-6c4f249204c7,Matthew Alexander,courtneyhernandez@example.com,Phone,Electronics,379.22,2025-04-18,Kenya
+e5871d89-1631-4fc6-b79d-58f9dc268108,Paul Lawrence,bbell@example.com,Phone,Electronics,975.07,2025-05-19,Egypt
+3f87dfc2-1591-42f2-a505-da9c46e75a2c,Lindsay Lawson,abbottdominique@example.com,Phone,Electronics,496.79,2025-02-05,New Caledonia
+6449cb6f-bf72-4e52-b04b-237082701238,Anthony Hurst,troyrodriguez@example.com,Phone,Accessories,193.82,2025-04-22,Barbados
+0316d2d6-fa4a-48ef-a383-7348873dc8bd,Dr. Bonnie Valencia,rdiaz@example.org,Laptop,Accessories,1278.37,2025-05-14,Zimbabwe
+0445c1a8-12af-47e4-8536-c66efcc4091b,Alexis Lewis,fryraymond@example.com,Phone,Accessories,812.64,2025-04-20,Macao
+b3a9dcaa-6c6f-4d2e-aa59-c043c4615234,Martin Medina,joshuacollins@example.net,Phone,Electronics,1646.68,2025-06-11,Sri Lanka
+6406face-53a5-4850-8950-ddd627c6cbb1,Pamela Santos,collinssamuel@example.org,Headphones,Accessories,592.53,2025-01-11,Benin
+74102d5d-1db1-4bfc-af3a-5115ecb4678c,Amy Wade,davidzimmerman@example.net,Headphones,Electronics,1701.05,2025-01-02,Luxembourg
+8468b74d-85e3-4de5-98c1-aad6f3f8dea4,Michelle Jackson,karamarks@example.net,Laptop,Accessories,818.04,2025-06-05,Sierra Leone
+ce9e9ebd-55c3-4853-8783-e43ce65fad87,Joseph Baker,crawfordwilliam@example.org,Camera,Electronics,1537.76,2025-03-29,Montenegro
+414f4994-2845-4780-9e20-c9572ab8bd33,Stephanie Craig,perezwilliam@example.org,Phone,Electronics,446.73,2025-05-31,American Samoa
+5d2d904f-78c5-4073-8bc5-72073e9aec86,Chris Velazquez,tranrobin@example.net,Camera,Electronics,1839.78,2025-04-25,Czech Republic
+ea75752d-6a8f-4acb-bf8e-2d0d52619dec,Denise Miller,david02@example.org,Laptop,Electronics,629.86,2025-05-21,Aruba
+e0827f76-11a5-49b4-a6a3-02d6f43e8c48,Douglas Kirk,christopher70@example.com,Laptop,Electronics,649.41,2025-02-05,Mongolia
+9f6a6a65-bd54-4a04-8dcd-0009c8d57717,Jacob Bonilla,jessicapayne@example.org,Laptop,Electronics,159.44,2025-01-27,Venezuela
+8aa2b4c9-3ba5-4d76-861e-fb9568f82063,Ryan Wiley,aaron64@example.org,Laptop,Accessories,458.45,2025-02-05,Dominica
+0f554896-f610-496b-bdf5-9abf6b790d01,Brenda Ramirez,morsephyllis@example.net,Camera,Accessories,1747.61,2025-03-14,Ukraine
+bf7655d7-f97c-4c3c-b55d-814b5f5ba255,Brendan Anderson,kjones@example.org,Phone,Accessories,564.36,2025-03-18,Bulgaria
+d9d57b02-42d0-4d55-8aab-47b23c9d128a,Robert Haynes,louis43@example.org,Phone,Electronics,1572.83,2025-06-15,Burkina Faso
+1be5a4c3-95af-4d0c-8528-5425c7a9f33c,Christopher Owens,wmartinez@example.org,Phone,Electronics,1714.1,2025-03-21,Kyrgyz Republic
+1725d2c7-1eb2-47b8-9a3c-45ca43d78f2b,Michael Mckenzie,lewismelissa@example.org,Headphones,Electronics,1171.59,2025-01-16,Egypt
+837217e0-6570-46ea-9b11-f51ff7e9101d,Edwin Wilkins,anthonysullivan@example.com,Laptop,Electronics,1792.02,2025-04-08,Mexico
+1a16998c-7648-476e-983f-ea703ff6579e,Brenda Smith,davidcolon@example.com,Phone,Accessories,862.34,2025-05-01,Wallis and Futuna
+960be0f4-9513-4c22-9583-9b99a50a13dc,Robert Johnson,gonzalezdebbie@example.org,Headphones,Electronics,1965.34,2025-01-17,Tanzania
+1f5df912-54e0-4431-8f13-3b65d450afa2,Joel Jackson,zunderwood@example.com,Headphones,Accessories,146.62,2025-01-06,Pitcairn Islands
+36f7a26c-5a9c-4679-ac3d-17e26d39da75,Denise Griffin,austinharvey@example.org,Camera,Accessories,353.39,2025-04-24,Luxembourg
+7aa1c567-8cf9-4ea9-a1fd-c6d169785221,Douglas Taylor,dawnrobles@example.org,Camera,Electronics,140.18,2025-04-21,Spain
+fd498e20-04ff-4ab2-8b7b-0b3a8b2d158a,Micheal Castillo,kcooper@example.net,Camera,Electronics,216.57,2025-02-26,Faroe Islands
+98dc9e0b-51a1-45df-86ac-10102e0869c1,Steven Osborne,stokesthomas@example.com,Laptop,Accessories,481.17,2025-05-15,Djibouti
+3f738f50-19a2-476f-a8dd-2bfdf956be95,Deborah Velasquez,gallagherstacie@example.net,Headphones,Accessories,982.83,2025-05-29,South Georgia and the South Sandwich Islands
+d6d744fd-ef69-4980-9ad4-79ef636fa890,Carrie Young MD,robin05@example.net,Phone,Electronics,488.7,2025-04-09,Mongolia
+fcedf994-d631-4383-b030-14d0f2c84743,Tracy Weaver,tracydavis@example.org,Laptop,Accessories,286.42,2025-04-16,Angola
+54ec84ce-002c-4b25-ba5d-7c8286c5547c,Christina Anderson,samantharichard@example.com,Headphones,Electronics,28.02,2025-01-11,Cameroon
+24435958-eacf-43a9-b466-fab6962c04dd,Sarah Valencia,brookssheri@example.com,Laptop,Accessories,1968.67,2025-04-13,Guadeloupe
+f9d2014a-22ee-4f07-9296-1fb34d407b28,Travis Conner,lbanks@example.net,Phone,Electronics,1072.75,2025-06-19,Puerto Rico
+c9784b52-9d1c-4838-adc8-cca8e3bcd6f3,Max Olsen,sparker@example.com,Phone,Electronics,1235.02,2025-01-23,Saint Lucia
+f2dde1f5-b3b6-4344-b2e3-c6f00075d3d5,Sarah Townsend,whitelucas@example.net,Phone,Electronics,95.05,2025-02-08,Mongolia
+2401342a-7f05-4bf5-afca-c5771aa6f7cb,Blake Reed,gary15@example.com,Phone,Electronics,1520.16,2025-01-02,Cote d'Ivoire
+59b9222c-115a-4fac-b173-fcdf3fe1e8f3,Brian Smith,akim@example.org,Headphones,Electronics,1180.7,2025-06-04,Lithuania
+8bc83a02-59ea-4936-a0f3-4ebce1bbb8cd,Ronald Kramer,franciscojones@example.org,Phone,Accessories,1639.75,2025-02-21,Ghana
+12fecc2b-1acf-42c5-b3a0-212042d943ee,Stephen Martin,paynerachael@example.org,Laptop,Accessories,1531.66,2025-03-01,Nicaragua
+07ef2ba8-b45a-4ab3-bb94-a34de4aa786d,Matthew Lawson,gmoore@example.com,Phone,Electronics,1634.45,2025-02-05,Comoros
+b8d77d2f-8dda-4ff2-b27b-7bb468c690b2,Kimberly Guerrero,john06@example.net,Phone,Electronics,981.88,2025-04-07,Liechtenstein
+00fa0eb4-5c5f-48d4-8df4-07b82751ab86,Edward Stanley,bgonzalez@example.org,Camera,Electronics,1042.74,2025-01-30,French Guiana
+d8014004-793b-4d1b-94f9-c394fa207403,Richard Ruiz,christopher86@example.org,Headphones,Electronics,96.23,2025-03-06,Hong Kong
+0b6c03c8-721e-4419-afc3-e6495e911b91,John Perez,anne21@example.org,Camera,Accessories,1393.76,2025-04-27,Sri Lanka
+c1a72883-f880-4878-a9fb-07638a9c66f7,Kristen Randall,rsheppard@example.com,Phone,Accessories,1292.76,2025-04-11,Dominica
+6511e61a-1436-45f5-8c81-926079ec533c,Michelle Shaw,davidtodd@example.org,Headphones,Electronics,928.63,2025-06-16,Chad
+31567f2a-cef7-4829-b63e-6ef4f8dfcc3a,Jay Mcneil,oharris@example.org,Camera,Electronics,425.56,2025-05-26,Eritrea
+ea074d80-ba23-4c22-a92a-7b9751db1a37,Angie Hawkins,melissa87@example.org,Headphones,Electronics,1511.42,2025-05-18,Nigeria
+6b6a8061-c81c-4d31-85c6-9fbf966b62ea,Chase Knight,buckleyanna@example.org,Camera,Electronics,66.01,2025-05-18,Trinidad and Tobago
+e0bda1ee-5807-4f74-a150-9425891f4683,James Washington,rjohnson@example.com,Laptop,Accessories,623.55,2025-01-26,New Caledonia
+09eda6f5-66d7-4d97-b193-c8b8ae49c079,Shawn Vaughn,reesesamantha@example.com,Camera,Electronics,135.75,2025-01-04,Svalbard & Jan Mayen Islands
+47c4cc51-4f9a-4f98-8d95-0273cb2cc805,Shannon Cohen,dennismccann@example.com,Phone,Accessories,1933.22,2025-05-16,Gibraltar
+9adfe981-6ab1-4e15-ba92-992e44f8b53c,Chelsea Lewis,wfigueroa@example.net,Laptop,Electronics,147.75,2025-06-01,Swaziland
+28b26b1b-ca9f-4d59-83e8-b7000e63813e,Michael Powell,thompsonnancy@example.org,Headphones,Accessories,909.42,2025-05-27,Egypt
+eb04159c-0cf1-43f9-b4d9-d1f508775804,Curtis Richardson,owagner@example.org,Laptop,Accessories,1433.69,2025-04-30,Dominican Republic
+7233d5af-9813-4da1-bd21-20ad5f59fb4d,Seth Matthews,max41@example.com,Camera,Accessories,890.53,2025-01-05,Australia
+c7a2f280-927f-4103-9a94-08c029b44cb1,Shannon Holland,josephortiz@example.org,Camera,Electronics,439.06,2025-06-01,Seychelles
+e959137f-795e-4f2b-8247-2360aea4a441,Christopher Owen,johnnytrujillo@example.com,Laptop,Electronics,1859.31,2025-05-05,Russian Federation
+e53e5f4c-6c7e-4a2c-867f-358ba48aa108,Gregory King,hturner@example.net,Headphones,Accessories,1805.38,2025-03-11,Bosnia and Herzegovina
+a9902071-ffda-4a93-82f2-900401e187d8,Sara Hoffman,kenneth17@example.org,Headphones,Accessories,1218.05,2025-02-28,Falkland Islands (Malvinas)
+46e1ee40-dc8a-46a7-933c-2ed5a3fe0479,Michael Stafford,jacob83@example.org,Camera,Accessories,1825.03,2025-05-21,Spain
+a91883fc-6772-4e9f-999b-c859cf5e0f0b,Charles Johnson,qbright@example.com,Phone,Accessories,565.57,2025-03-12,Saint Pierre and Miquelon
+fea82e3a-b544-41cb-9541-0a9d090aaa93,Cheryl Barber,ginalittle@example.com,Phone,Electronics,540.57,2025-06-08,Paraguay
+d86d655d-4cd9-4164-81df-62f45bc677ca,Matthew Grant,connor24@example.net,Camera,Accessories,1847.57,2025-05-22,Serbia
+ae01a122-f269-421c-aedd-9141e9a1c6d5,Martha Walker,julieparker@example.com,Camera,Electronics,966.53,2025-03-07,Myanmar
+1e26ed31-d9e9-4758-b6b9-04364b46ef33,Sean Silva,kennedyjames@example.org,Laptop,Electronics,623.89,2025-06-01,Hong Kong
+0dd70158-69c1-45ae-8c61-0ae887a37f10,Brittany Gay,robert97@example.org,Phone,Electronics,1845.74,2025-02-25,Saint Barthelemy
+7cd2192f-14b0-4f62-8768-b07f2e2bdc6c,William Edwards,smithjoshua@example.org,Headphones,Electronics,86.22,2025-04-11,Cayman Islands
+c79ddb62-c379-44c1-8903-94ea7d54ec82,Lucas Schultz,epatterson@example.com,Phone,Accessories,1190.48,2025-01-01,Martinique
+f337b261-5f83-42d5-bb0c-7919330ccff5,Frank Whitaker,andrewsmith@example.net,Phone,Electronics,248.0,2025-02-13,Puerto Rico
+21019bff-4fe5-4745-9827-4e80e0821918,Jonathan Torres,colonkenneth@example.com,Headphones,Electronics,81.8,2025-03-21,Mali
+6f04af36-567c-4d44-862c-92fd98abb2e7,Whitney Cooper,mhoward@example.org,Camera,Accessories,991.95,2025-06-15,Uruguay
+3a799efa-04e5-4bd5-a744-acd4cfdfc6f9,William Clark,lawrencegary@example.com,Laptop,Electronics,297.36,2025-05-05,Somalia
+a3ec152c-e065-4245-a00c-9c710990a647,Joseph Williams,stanleydesiree@example.org,Phone,Electronics,216.61,2025-01-09,Brazil
+1fa3ed1f-6158-4f88-b1be-94c36ab1cdb6,Kara Hernandez,turnerdorothy@example.net,Headphones,Electronics,471.54,2025-04-02,Nigeria
+6b382a0a-231d-460b-b362-cd559b0ada0b,Ashley Higgins,campbellkristen@example.com,Camera,Electronics,1907.56,2025-02-04,Cook Islands
+85ece729-d4dd-4b56-8353-91b2c72850c1,Heather Ortiz,benjamincrawford@example.org,Camera,Accessories,1245.91,2025-05-01,Liberia
+03438b64-00b3-400f-bc08-899054a27051,Susan Conley,fhernandez@example.net,Headphones,Accessories,1210.99,2025-01-14,Saint Kitts and Nevis
+a4f34185-4182-4509-a79f-9f3d19ee2c3b,William Phillips,lwilliams@example.org,Camera,Electronics,219.96,2025-05-30,Guyana
+6d0e0597-500d-42a7-ad40-9244cd3566ef,Anna Chang,smithdevon@example.net,Headphones,Accessories,266.02,2025-01-30,Guinea-Bissau
+9f2ebefc-f480-491e-b00e-0efce4ffc31a,Nicholas Watson,ian66@example.com,Camera,Accessories,520.24,2025-02-17,Hungary
+ccc62fed-7a6e-43d0-99c5-9cd9b09d721b,Stephen Jackson,heatherbrown@example.org,Camera,Accessories,169.87,2025-01-19,United States Minor Outlying Islands
+91a646da-cd61-4988-bb90-942f973b6977,Catherine James,cheryl27@example.com,Camera,Electronics,158.52,2025-01-20,Isle of Man
+42f90f92-1036-4a81-8bc4-d7ba70d0ebcb,Alexandria Oneill,tiffanysantiago@example.com,Phone,Electronics,657.84,2025-04-01,Portugal
+6ecf1ed2-1861-49f3-9e44-e98cb359390e,Danielle Reed,jhernandez@example.net,Laptop,Accessories,955.88,2025-01-10,Norway
+d94df188-816c-4054-a82c-6470ef32f72a,Jon Martin,vflores@example.com,Camera,Electronics,350.62,2025-01-09,Czech Republic
+673d2920-60ee-44ba-a4b0-718e8ced4707,Angela Wallace,fmiller@example.com,Camera,Accessories,167.25,2025-02-25,Luxembourg
+1a46d536-048c-4480-a743-7402bec7fb11,Andrew Dunn,connersylvia@example.net,Phone,Electronics,95.89,2025-02-23,Malawi
+abe5be96-a793-4a2e-b4f4-34048ff50701,Glen Bryan,meganrivera@example.net,Laptop,Accessories,524.16,2025-04-15,Saint Barthelemy
+73d92ace-b746-4b72-9d00-df1ba83c1c2b,Peter Walker,michael48@example.net,Camera,Accessories,1005.28,2025-03-07,Botswana
+7e0f60b2-2a06-4609-a599-bd3c0bb81d38,Mitchell Griffith,kingjames@example.org,Camera,Accessories,1377.19,2025-06-12,India
+c80b2af7-d315-4afa-b500-f7853730dfba,George Sherman,housemary@example.net,Phone,Accessories,732.99,2025-01-22,Uganda
+96dd6c82-a890-4e31-b517-5f39735444fb,Brandy Porter,tranryan@example.net,Laptop,Electronics,1489.55,2025-03-26,Malawi
+2d5d2395-e901-4768-abd1-4b0cc7f4f4f9,Carrie Ochoa,hughescaroline@example.com,Camera,Accessories,560.58,2025-03-30,Hungary
+ea7917e1-9be7-42ab-bac0-8fc46b2d9ccc,Danielle Sanders,tara72@example.org,Headphones,Electronics,1735.45,2025-03-14,Reunion
+4c859233-8325-4d9e-bf98-e734e2ed8686,Kimberly Edwards,jamesweber@example.com,Laptop,Accessories,1016.97,2025-05-01,Uruguay
+b5dc8a9a-fb38-4d91-a1f6-c63dac20af11,Tina Gordon,jennifer58@example.com,Phone,Electronics,1648.6,2025-04-12,Western Sahara
+ac9b389a-6adf-4568-b5ca-a993aacad101,Sarah Mitchell,hstokes@example.org,Phone,Accessories,702.51,2025-01-05,Cameroon
+332cce0a-0e7d-4698-ab95-c72f0d95aaf5,Richard Terrell,dwayne04@example.org,Headphones,Accessories,491.15,2025-05-12,Antigua and Barbuda
+1a3c2131-73dd-4bc6-9064-05a85bd29cb1,Megan Hoffman,juliahoffman@example.org,Headphones,Accessories,350.47,2025-03-31,South Africa
+b1644235-49a2-4fde-b235-7a3ccc7f9517,Tammy Hughes,tammy00@example.net,Laptop,Accessories,1163.87,2025-02-13,Niger
+dec00f3a-dc46-4b34-87ea-b19bde6cf36b,Darius Schultz,kari89@example.org,Phone,Electronics,627.21,2025-05-16,Congo
+fbc398d8-2d6b-4882-b2e5-88e94b4f3b2e,Chelsea Thompson,bennettroy@example.net,Laptop,Electronics,1049.86,2025-02-16,Central African Republic
+0171f5a7-4148-4d11-9894-62e895801c3a,Michael Moore,sarahcarlson@example.net,Laptop,Accessories,1976.18,2025-04-18,Panama
+929af586-ca37-4c36-bd94-bf104d187b75,Angel Zimmerman,susanmeyer@example.net,Camera,Electronics,750.12,2025-01-28,Mayotte
+597278c5-1789-4e63-a746-5743897b303d,Daniel Rivera,kelly98@example.com,Headphones,Electronics,228.04,2025-06-24,Swaziland
+0240f59a-a638-4854-bb2b-8b80c08bd674,Gregory Allen,susanfleming@example.com,Camera,Accessories,737.12,2025-03-08,South Africa
+41afeb2a-62c8-43f4-9d06-149ef1eab64a,Diane Pruitt,willie87@example.com,Camera,Electronics,1907.4,2025-01-08,Ukraine
+838e9a61-5200-444b-b148-7df8a6ca8d50,Brendan Bonilla,simsjason@example.net,Phone,Accessories,718.35,2025-05-16,Tonga
+1a9af29e-d5ee-4587-ac98-fd9baf76b6c2,Ronald Johns,elucas@example.net,Phone,Accessories,456.06,2025-05-01,Anguilla
+09b2eae6-54eb-4c91-b784-ae08758fc8fa,Anthony Bauer,andrewsjeremy@example.com,Phone,Electronics,1202.82,2025-03-13,Korea
+50ffde64-6eda-4a8c-a789-e7d0a155eb2c,Michael Nichols,avilabrenda@example.net,Phone,Accessories,855.58,2025-05-29,Guinea-Bissau
+4a32bb22-1b2b-42ec-80b9-ec30ed94898b,Elizabeth Miller,qjames@example.org,Phone,Accessories,1215.84,2025-03-24,Martinique
+641816b7-bf2b-43b4-a2e9-e52738491ecc,Sarah Phillips,kennetheaton@example.net,Camera,Accessories,361.72,2025-04-24,Zambia
+8e190d07-dff0-49bf-8db3-c2c102dabd76,Andrew Armstrong,fmedina@example.com,Laptop,Electronics,232.18,2025-02-06,Saint Vincent and the Grenadines
+3634646c-5806-4961-b9d7-07a9e74ed0b3,Matthew Hunt,jackjensen@example.com,Laptop,Accessories,425.0,2025-02-04,Cocos (Keeling) Islands
+da2d2156-913a-4734-8cb6-8571abc53545,Paul Branch,enewman@example.com,Laptop,Electronics,1074.8,2025-04-28,El Salvador
+94a1eab0-b9c0-47aa-b289-f58b1923cafc,Mr. Carl Rios,mitchellchad@example.org,Headphones,Electronics,1187.71,2025-02-25,Korea
+4e40bfba-a8cf-4589-9dc8-9e1a540e7d01,Brittany Knight,susan20@example.com,Laptop,Accessories,761.06,2025-02-13,Cyprus
+6fa5d3b0-a40d-4ea5-bd64-987eb652ae99,Ian Frazier,natalie77@example.com,Camera,Accessories,638.34,2025-05-16,Libyan Arab Jamahiriya
+a542deb9-2cff-45f8-9bdc-74a98d3a5d76,Sarah Trevino,patriciagonzalez@example.net,Laptop,Electronics,373.25,2025-06-05,Belarus
+04c4f46a-e461-4160-934d-695aba388c8f,Lynn Hess,nhammond@example.org,Camera,Electronics,1141.86,2025-04-07,Mayotte
+78dbcde3-8a28-4792-bfac-a645e4dc4306,Brittany Long,dennis88@example.org,Laptop,Electronics,449.56,2025-03-11,Macao
+d9155664-3d27-4ad5-a9a5-4c2402b622e9,Vicki Sutton,seanwhite@example.net,Laptop,Accessories,134.34,2025-04-26,Cameroon
+f06dca24-7bc6-4121-bb64-a525bc653d94,Daniel Freeman,bakerjim@example.net,Headphones,Electronics,114.35,2025-02-06,United States of America
+783c91eb-635a-41f2-9c7a-f83dca9d2704,Sierra Williams,dakota84@example.net,Phone,Accessories,218.61,2025-02-16,Mayotte
+a75743f9-606c-42f5-ac81-6bf091f60406,Kevin Villanueva,blacknicholas@example.org,Headphones,Accessories,1276.18,2025-04-01,Guinea
+7ca2f582-5854-49d9-9e22-dc3fd1366db1,Stacy Smith,scotthall@example.net,Headphones,Electronics,1145.54,2025-04-23,Croatia
+5cbaa496-2848-4240-afd9-0ce1267627ca,Ruth Guerrero,ushepherd@example.org,Laptop,Electronics,23.75,2025-03-26,Lesotho
+29476f54-973e-429c-b5f0-b1be7aa1219a,Jennifer Sanchez,ashleymartin@example.net,Phone,Electronics,1159.19,2025-03-31,Uganda
+2a955908-0e50-4fd8-a598-f38392803da2,Christopher Mullen,johnsjessica@example.com,Headphones,Electronics,1030.4,2025-06-15,Cuba
+78ae8d5d-fe26-4e77-9b45-47e072fefdc2,Carolyn Greer,laurahoover@example.org,Laptop,Accessories,1390.31,2025-04-20,Malawi
+af82e70c-b964-4e4f-aaef-cf3b43b7a0ef,Jesse Garza,nicholasanderson@example.org,Phone,Electronics,1286.61,2025-02-05,Tokelau
+6b77af9e-af32-4af8-811d-b4afe8ca7483,Lisa Thompson,richamanda@example.org,Headphones,Accessories,1050.17,2025-01-17,Palestinian Territory
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,Stephanie Hampton,xboyd@example.org,Headphones,Electronics,173.38,2025-05-03,Japan
+7b6c7129-cd63-4ba8-b03c-664b3abf9c65,Jane Chapman,colemanjonathan@example.org,Laptop,Accessories,1789.4,2025-06-09,Belize
+8b31f4d8-e073-41d0-9929-afeb48842a14,Colin Fletcher,lanedavid@example.org,Headphones,Accessories,1376.08,2025-03-07,Costa Rica
+68aa1236-50de-4f43-8de5-c35ab0117b0a,Christopher Pearson,jose86@example.net,Laptop,Accessories,1214.51,2025-03-05,Falkland Islands (Malvinas)
+c145d6ba-65bf-4e04-ae3c-2ce6fde6849b,Juan Grant,mitchellpeters@example.com,Laptop,Accessories,1300.52,2025-06-22,Morocco
+65ebd4dc-b49b-4b72-8631-9c165827bc1d,Sarah Hopkins,seanlyons@example.org,Phone,Accessories,834.86,2025-01-18,Malawi
+cd04c001-56a3-4ccc-893c-9cc6668b28da,Melissa Mann,paulfields@example.org,Phone,Electronics,922.37,2025-05-25,Latvia
+1690636b-6f74-455d-99a9-af6aed054732,Daniel Miller,ramseysarah@example.com,Phone,Accessories,126.79,2025-04-18,Mali
+98f3f640-f6a9-43e3-b62b-ccb149560c36,Raymond Thompson,mgonzales@example.net,Laptop,Electronics,518.85,2025-06-12,Maldives
+c8b190e1-089a-4f4f-b1da-e8174937b90f,Kelli Hall,emilyward@example.net,Phone,Accessories,46.65,2025-01-01,Cayman Islands
+c798a445-46a3-4c71-bf2f-6883163b5481,Michael Sullivan,aprilmclaughlin@example.org,Laptop,Electronics,498.16,2025-06-10,Mexico
+8f221604-d46b-4756-b9e4-39ef48d495a4,Hannah Richmond,jeremy37@example.com,Camera,Electronics,310.41,2025-04-11,Eritrea
+1b414999-8198-41f5-a839-f98f2ccf1472,Kathy Morgan,prattsue@example.net,Phone,Electronics,863.14,2025-05-23,Morocco
+f74f6900-7159-4914-b1b6-8ecd400945ce,John Sanchez,susan77@example.net,Camera,Accessories,453.56,2025-05-31,Liberia
+61f6dfbe-114b-4c79-8200-79f51dc3c26e,Wendy Rhodes,laurengutierrez@example.com,Phone,Electronics,738.26,2025-04-01,Algeria
+3f8dcf96-436a-42bb-9509-8e07b368d836,James Goodman,charles27@example.com,Laptop,Accessories,1520.86,2025-03-03,Uganda
+f2765513-2eca-4629-84e2-269192ded495,Tara Lee,jimmyallen@example.com,Camera,Electronics,137.65,2025-02-06,Cook Islands
+9e5c5dcd-d61a-480a-bfec-0a37d5bea8dc,Richard Wilson,loweelizabeth@example.net,Laptop,Electronics,1759.97,2025-01-02,Togo
+d91738f8-0ad1-418c-b53f-091e8a9e0964,Mr. Johnathan Galloway,travis84@example.com,Headphones,Electronics,346.21,2025-02-08,Morocco
+cc9cf41c-8696-4901-8ddc-a78820d4ba18,Todd Johnson,phillip27@example.org,Phone,Electronics,1545.02,2025-05-03,Kuwait
+0306a258-0227-48d5-b070-1a5350ce857f,Jamie Garcia,chloe42@example.net,Headphones,Accessories,498.91,2025-02-15,Ethiopia
+57d52b78-9cf3-437e-b562-037b78aa16ea,Jonathan Clark,michael64@example.com,Headphones,Electronics,702.71,2025-02-01,Bulgaria
+3a8359b6-af9e-4a0e-936d-b4a7fab1996a,Michelle Brock,mchase@example.org,Camera,Electronics,131.25,2025-05-21,Saint Vincent and the Grenadines
+027e789c-ce40-483b-b915-ad7e2648c819,Jonathan Cowan,kristen44@example.net,Laptop,Electronics,1842.53,2025-05-31,Australia
+29d0c613-b0c7-4002-9956-699065fdaadb,Robert Woods,colematthew@example.com,Phone,Accessories,1645.5,2025-03-05,Moldova
+581993cc-41f9-494a-8f5d-337fee8d5daa,Bryan Dillon,barbarasantos@example.net,Phone,Accessories,1462.97,2025-01-31,Slovakia (Slovak Republic)
+ac565da6-5339-4df4-9ae8-6d1848dc1e26,Patricia Griffin,jamesjustin@example.net,Laptop,Electronics,959.47,2025-06-17,Trinidad and Tobago
+edb68b81-cec6-4cfe-a3fd-17f02ae63af6,Mark Duncan,millermatthew@example.com,Laptop,Electronics,1501.68,2025-02-25,French Guiana
+a5076897-9afa-4267-8479-1214b5def807,Stephen Norman,julie87@example.com,Camera,Electronics,470.67,2025-01-30,Timor-Leste
+3c10871b-ba4f-4b03-a002-9d9f05e9f407,Teresa Haynes,clarkrandy@example.org,Camera,Accessories,1885.17,2025-01-12,Turkey
+06bfd9c4-0dc7-4104-8c66-27667922b440,Kelly Ferrell,bakereric@example.net,Headphones,Electronics,1180.99,2025-06-13,Iceland
+bcd2e8eb-3f55-40cd-bab7-127e4f32ea54,Mark Anderson,anthonyalvarado@example.com,Laptop,Electronics,1881.15,2025-06-01,Lao People's Democratic Republic
+ef52d36e-8a63-493c-9ef3-306af99863f2,Jeremy Montes,brittanybryant@example.net,Camera,Accessories,105.73,2025-04-22,Mongolia
+a3b81f92-a3c9-4c6a-8601-76336f5aad52,Susan Olson,lindaramos@example.com,Camera,Accessories,259.3,2025-03-14,Cape Verde
+85f80d9b-0006-4d5a-82b3-c9484db6f475,Sarah Cooper,snichols@example.com,Camera,Electronics,1346.33,2025-06-15,Lesotho
+6e310234-c410-4108-8256-83894cb34663,Linda Robles,jacob86@example.com,Laptop,Electronics,1198.97,2025-02-13,Saint Barthelemy
+d413c850-63c4-476d-a55f-a725bcb3c168,Dennis Henderson,zacharymarsh@example.net,Phone,Electronics,1656.18,2025-05-22,Poland
+be3074f8-a601-47c3-88e0-95024598f3c8,Debra Lopez,whitekeith@example.net,Camera,Electronics,174.24,2025-03-21,Korea
+7df37378-9f6c-4ab4-b352-2c1845aa9503,Alec Williams,lopezcurtis@example.com,Camera,Electronics,797.87,2025-01-22,Kazakhstan
+17172654-3b99-4815-8219-a9c7ba23b07a,Johnny Peterson,kristi75@example.com,Headphones,Accessories,1020.53,2025-05-02,Antigua and Barbuda
+c02553ea-d7f2-4678-9489-8025548b2ce3,Amy Rowe,danielshunter@example.com,Headphones,Electronics,617.46,2025-05-24,Switzerland
+c4a531cd-f97f-4994-9f38-df55033ac4d6,Janice Proctor,joanjohnson@example.com,Headphones,Electronics,1118.02,2025-05-09,Bhutan
+355cca9c-fb6b-41dc-aa7f-7e0685695f97,Michael Collins,eric08@example.net,Laptop,Electronics,433.11,2025-01-22,Liberia
+5c44ebd1-32df-4d45-8c7f-03bba3760c2d,Sharon Robinson,youngryan@example.org,Laptop,Electronics,1480.22,2025-01-30,Falkland Islands (Malvinas)
+ca0553a2-6553-415f-9ea1-5b0f95aeb18b,Wayne Perkins,jbarker@example.com,Laptop,Electronics,1232.96,2025-05-15,Egypt
+af9a1168-1766-4795-bffa-b493285eed0a,Tara Shea,browndeanna@example.net,Laptop,Electronics,457.29,2025-04-04,Botswana
+5115d7ee-3b90-408e-bce3-456320363a73,Dr. Nicole Trujillo,bquinn@example.net,Laptop,Electronics,306.02,2025-03-08,Saint Kitts and Nevis
+0a1bebd3-e60e-4813-802d-a0fa227dcecc,Mr. Edward Terry,ashleystephens@example.com,Phone,Electronics,1721.39,2025-05-09,Falkland Islands (Malvinas)
+ea1af7d2-9943-46bb-94d3-53a5de1f1619,Caitlyn Schmidt,qphillips@example.net,Headphones,Accessories,1396.26,2025-03-06,Afghanistan
+6108ffcc-8186-422b-a355-ad05c6a28e4e,Sonya Harvey,kimberly35@example.net,Camera,Electronics,1533.52,2025-01-12,Mauritania
+86296fbe-309b-48dd-a332-9992d1ad3e51,Pamela Moore,marcus51@example.org,Camera,Electronics,1108.88,2025-04-02,Bangladesh
+2138e2e6-f013-4170-95cf-3b4c0b34fc84,Andre Rodriguez,coreyduncan@example.com,Headphones,Electronics,1886.31,2025-04-26,Malta
+4185300d-971d-45fd-b389-50ce9fbc879e,Daniel Robbins,conradjason@example.com,Laptop,Accessories,921.01,2025-06-12,Syrian Arab Republic
+a3900bc0-cd0f-44a6-b7d2-b94f14780c9d,Justin Hurley,yshort@example.net,Phone,Electronics,1647.26,2025-01-11,Nicaragua
+bbfb1b71-0a68-4eb8-876d-e8c5440c7e5b,Eric Blackburn,garciajerry@example.com,Camera,Electronics,574.49,2025-02-03,Malta
+a0154d65-91ed-454a-bfae-ef01a8290f3c,Kristin Grant,mirandabarbara@example.net,Laptop,Electronics,1871.89,2025-03-22,Papua New Guinea
+2ab403f6-1aa6-4474-a200-c1576d54c95a,Krista Wagner,amandagreene@example.com,Headphones,Electronics,890.3,2025-06-07,Mexico
+d8485a54-531c-4812-bf31-950afdd084a1,Phillip Jordan,charlene98@example.org,Laptop,Accessories,573.18,2025-03-07,Mexico
+5c29850b-410b-4c29-be9c-afcfed17f6e9,Jillian Sanders,birdcaitlin@example.net,Laptop,Accessories,1516.33,2025-01-24,Tuvalu
+fc0145e1-4ce2-4fa2-81ae-7eb14d457ea5,Scott Smith,samantha88@example.net,Laptop,Electronics,705.07,2025-06-12,Cape Verde
+5b0c4170-75da-4bbe-89a9-161a18233383,Derek Preston,jesseshepherd@example.org,Laptop,Electronics,744.97,2025-04-10,Montenegro
+13c37b5d-bbf8-4a91-b7a9-f824eafa4d5b,Rebecca Thompson,larsonkevin@example.net,Laptop,Electronics,1928.79,2025-05-22,Hong Kong
+ebffc53f-0e50-4355-87b6-11cd1417182a,Hannah Montoya,hconrad@example.org,Headphones,Electronics,1116.26,2025-05-11,Thailand
+a2466cd7-02ed-4d15-adbc-36d89a307096,Janet Torres,floresannette@example.com,Camera,Electronics,763.98,2025-03-29,Cyprus
+bb48bbba-ac73-4be0-8cee-ddc22737f345,Tricia Mullins DDS,walkerkeith@example.com,Phone,Electronics,1193.16,2025-01-26,Guadeloupe
+beccf760-9249-4e3a-b9d1-9c4e1521ad35,James Miller,iayala@example.org,Camera,Accessories,1514.53,2025-03-26,Congo
+9242ba54-a6f9-40e1-a533-9cf07ce4770e,Luis Fitzgerald,johnadams@example.com,Camera,Accessories,1965.51,2025-02-26,Uzbekistan
+abf7a5d0-1cce-41ef-96ef-acdf9375ee61,Jacob Lee,brittney04@example.org,Phone,Electronics,1336.21,2025-06-22,Nicaragua
+7134ae6e-cd84-4a47-bd7b-1279d2535515,Jessica Glass,jamesbrooks@example.net,Headphones,Accessories,1380.87,2025-05-30,Bouvet Island (Bouvetoya)
+f2edcab0-3e38-49e2-8df6-3417bd5538c7,Brittany Wall,alexander14@example.com,Camera,Electronics,1573.06,2025-03-24,Greenland
+363d75f1-89ba-49c8-bd71-7da33581a632,Joseph Green,jdean@example.net,Headphones,Accessories,1578.0,2025-05-03,Andorra
+a9dcfe52-e7f2-418a-953f-cfd460694b6d,Dawn Brown,kristinawilliamson@example.org,Headphones,Electronics,1552.08,2025-03-23,Western Sahara
+a90e319d-637e-4f94-910c-8d920222305d,Samuel Keller,smithmichelle@example.net,Phone,Electronics,992.31,2025-03-09,Hong Kong
+197fa0fd-b5ae-4a56-ba03-3d6c822fb2f0,Kari Harper,lopezvincent@example.com,Laptop,Accessories,319.83,2025-04-09,Rwanda
+ec19e4eb-3f55-4740-8a2d-36a605804493,Felicia Long,andrewsutton@example.com,Phone,Accessories,771.32,2025-04-20,Dominica
+80520405-fa84-4b5f-ba6e-3743fef97d57,Antonio Scott,bzamora@example.net,Laptop,Accessories,862.79,2025-06-16,Czech Republic
+6491982b-e5ad-481d-977f-4c1626d658fb,Anita Reyes,robertberry@example.com,Phone,Accessories,653.32,2025-06-19,United States of America
+8acfd4d6-72fc-4072-944c-01329af97493,Matthew Carpenter,michelleparker@example.net,Camera,Electronics,979.47,2025-06-07,United States of America
+e8b45c6a-fee5-43b3-ae18-b184229fe85b,Brianna Fitzpatrick,lonniegrant@example.net,Laptop,Electronics,325.06,2025-01-21,Ghana
+ba21e269-2540-4bfe-a12f-f6cdd6eaf269,Fernando Dudley,vturner@example.net,Laptop,Accessories,632.26,2025-06-13,Falkland Islands (Malvinas)
+1b555f6d-301c-4abf-8773-9d4626e6a84a,Alexander Odom,catherine93@example.net,Phone,Accessories,1381.81,2025-02-10,Poland
+b02a06ee-1458-4063-9bf8-8d1d06ad7920,Brandi Mathis,xjoseph@example.org,Headphones,Electronics,1926.44,2025-05-30,Liechtenstein
+317979f9-29ed-4760-a334-08ba794e0838,Jason Novak,stephanie33@example.org,Camera,Electronics,1411.85,2025-01-12,Vanuatu
+ddfc2a92-7074-4eb3-bc52-17ccf4672866,Melissa Delacruz,ronaldparsons@example.net,Laptop,Electronics,97.53,2025-05-09,Hong Kong
+9c8b9550-64e7-4f9a-901a-0ccfb85f164b,Laura Herrera,meyershannon@example.org,Phone,Accessories,886.63,2025-06-03,Ecuador
+fbdc532e-6546-466d-89b1-cad184c9b276,Kristin Black,leescott@example.com,Phone,Electronics,1114.79,2025-05-16,France
+4b5f174b-6c26-4b56-aa9e-dda7761ad914,Amy Black,stevenlucas@example.org,Laptop,Accessories,388.72,2025-05-07,Bouvet Island (Bouvetoya)
+f016716b-95df-46cb-875a-ec942e057f79,Kimberly Long,shannon27@example.net,Phone,Electronics,1150.99,2025-06-06,Ukraine
+171603b1-7466-4e6f-a1ee-b1f133b1d0dc,Michael Meadows,jennifermartinez@example.org,Phone,Electronics,552.86,2025-05-04,North Macedonia
+b5103e9c-8618-440d-95d6-a6585ce9dbbc,Richard Hunt,nicholasjames@example.org,Headphones,Accessories,331.67,2025-06-09,Mongolia
+266c47fb-dcd8-4a8b-a8d6-faf6df0ddef1,Charles Hammond,barneskyle@example.com,Headphones,Electronics,1435.71,2025-02-20,Cocos (Keeling) Islands
+f5defeba-21ae-439b-a606-d7c21e18046d,Marcus King,fjimenez@example.net,Headphones,Accessories,1723.29,2025-05-22,New Caledonia
+37850b5c-3ce5-488c-be53-d702e1f8d192,Karen Ortiz,burkeadam@example.net,Headphones,Electronics,1396.89,2025-02-18,Niue
+3527bcee-d343-4f88-91f3-79b18ebb8208,Charles Delgado,thomasantonio@example.net,Headphones,Electronics,505.53,2025-05-27,French Southern Territories
+0c8d51d2-1673-4efb-ab9e-54e054c3b22e,Xavier Martin,cheryl99@example.net,Headphones,Accessories,1859.96,2025-02-01,Korea
+ee757637-5c35-42b3-9437-2280bfd467e7,Randy Morris,wwilkins@example.com,Laptop,Accessories,706.1,2025-05-28,Bahrain
+1f3cea1d-2271-47ca-b887-73ed4af715b7,Denise Rose,heathersalazar@example.org,Camera,Accessories,197.18,2025-04-10,Norfolk Island
+7bd15655-1671-4639-bcb8-6f9e87690baa,Lisa French,ronald54@example.net,Laptop,Electronics,348.89,2025-04-11,Nigeria
+9d421bae-2134-415b-ad56-c7145a9621f5,Kelly Welch,nmorton@example.org,Camera,Electronics,477.59,2025-05-05,Congo
+7702beba-0623-4fbf-9e42-d2b800679b62,Bailey Charles,vgutierrez@example.com,Camera,Electronics,364.78,2025-04-09,Northern Mariana Islands
+3381001f-a3ff-4fd2-82e4-60aa365bc763,Dawn Jones,william50@example.org,Headphones,Accessories,697.87,2025-05-01,Guam
+9db1bd5e-91a4-4796-b972-0eec65637d1f,Sandra Lee,sandra77@example.org,Phone,Accessories,661.73,2025-04-23,Liberia
+e45def26-75eb-4e8f-a090-360d27c7655a,Stephanie Ford,dreilly@example.net,Phone,Electronics,1804.29,2025-02-22,Saint Kitts and Nevis
+892fca69-8e20-47e1-90c4-cb4bad9e5c1e,Kenneth Rivera,carl24@example.org,Headphones,Accessories,682.7,2025-03-01,Honduras
+2a7cf9e9-d7a7-47b1-88c6-2063a06303ca,Jean Larson,janet50@example.com,Headphones,Electronics,1235.7,2025-03-14,Luxembourg
+73b0220d-5f20-49ea-bcd6-1f5ee0864418,Elizabeth Warren,danielglover@example.org,Phone,Accessories,1887.75,2025-06-09,Kenya
+7b8fd09a-cc8c-4ba9-8662-200c8188de48,Brittany Peterson,hoconnor@example.com,Headphones,Accessories,1376.24,2025-05-16,Cambodia
+d277ab64-1927-43a7-9f2e-37e7c4fcbb84,Ms. Wendy Harris,stevensjennifer@example.net,Laptop,Accessories,731.51,2025-01-21,Georgia
+d91ea7e6-afe2-4940-8b45-8c23eeada90c,Anita Owens,garciakatie@example.net,Headphones,Electronics,1437.42,2025-02-24,Morocco
+e462ff64-a38b-4aa4-8fe8-98d8c22ca6a8,Curtis Mitchell,kendra14@example.org,Phone,Electronics,418.73,2025-01-28,Brazil
